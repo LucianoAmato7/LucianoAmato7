@@ -2,11 +2,7 @@
 
 ### *About me:*
 
-I am passionate about technology and currently in the last year of my Systems Analyst degree.
-
-In my current role as a Full Stack Developer in a development division of the Armed Forces, I actively participate in the analysis, design, and implementation of IT solutions, using technologies such as React Native, Node.js, and PostgreSQL.
-
-I am highly motivated to continue expanding my knowledge and eager to learn new technologies. My ability to learn quickly, solve problems efficiently, and collaborate effectively in a team environment ensures consistent professional growth and valuable contributions to any project.
+Passionate about technology and software quality, I currently work as a QA Analyst. I have experience in software quality control, including test case design and execution, defect analysis and management, and collaboration with development and product teams. My background in systems analysis and previous experience in development with technologies such as React Native, React, Node.js, and PostgreSQL allow me to bring a technical perspective to quality assurance.
 
 ## *<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>*
 
